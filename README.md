@@ -8,6 +8,8 @@
 # awesome-windows-security-development
 
 ## Forked from ExpLife/awesome-windows-kernel-security-development.but...He deleted
+ 
+### Welcome add project or something to list(ple use issuse)
 
 ## windows kernel driver with c++ runtime
 
@@ -874,3 +876,8 @@
 - https://github.com/yifengyou/Code-virtualization-and-automation-analysis
 - https://github.com/yifengyou/Software-protection-and-analysis-techniques---principles-and-practices
 - https://github.com/yifengyou/X86-assembly-language-from-real-mode-to-protection-mode
+
+## Driver Analysis
+
+- https://github.com/stonedreamforest/re_sysdiag
+- https://github.com/stonedreamforest/re_avkmgr
