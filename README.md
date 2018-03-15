@@ -881,3 +881,8 @@
 
 - https://github.com/stonedreamforest/re_sysdiag
 - https://github.com/stonedreamforest/re_avkmgr
+
+## anti-virus software
+
+- https://gitee.com/dekuan/VwFirewall
+- https://github.com/shenghe/pcmanager
