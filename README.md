@@ -352,6 +352,7 @@
 - https://github.com/lj1987new/guardlite
 - https://github.com/hackshields/antivirus/
 - https://github.com/AntiRootkit/BDArkit
+- https://github.com/dekuan/VwFirewall
 
 ## bypass patchguard
 
@@ -883,7 +884,3 @@
 - https://github.com/stonedreamforest/re_sysdiag
 - https://github.com/stonedreamforest/re_avkmgr
 
-## anti-virus software
-
-- https://gitee.com/dekuan/VwFirewall
-- https://github.com/shenghe/pcmanager
