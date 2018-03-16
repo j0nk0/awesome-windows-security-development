@@ -119,6 +119,7 @@
 ## pe loader
 
 - https://github.com/VideoCardGuy/PELoader
+- https://github.com/FrankStain/pe-loader
 
 ## dll to shellcode
 
