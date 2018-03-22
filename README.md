@@ -148,6 +148,7 @@
 - https://github.com/swwwolf/cbtest
 - https://github.com/nmgwddj/Learn-Windows-Drivers
 - https://github.com/SamLarenN/CallbackDisabler
+- https://github.com/arcpop/Observer
 
 ## minifilter
 
