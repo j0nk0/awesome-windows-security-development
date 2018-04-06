@@ -264,6 +264,8 @@
 - https://github.com/akayn/kbMon
 - https://github.com/hm200958/kmdf--analyse
 - https://github.com/icewall/ForceDelete
+- https://github.com/Zer0Mem0ry/KernelBhop
+- https://github.com/Zer0Mem0ry/KernelReadWriteMemory
 
 ## mbr
 
@@ -874,6 +876,7 @@
 
 ## book code
 
+- https://github.com/Captainarash/The_Holy_Book_of_X86
 - https://github.com/yifengyou/32to64
 - https://github.com/elephantos/elephant
 - https://github.com/yifengyou/Android-software-security-and-reverse-analysis
