@@ -11,6 +11,10 @@
  
 ### Welcome add project or something to list(ple use issuse)
 
+## Payloads(s)(generators)
+
+[https://github.com/EgeBalci/HERCULES] - Customizable payload generator that can bypass antivirus software
+
 ## windows kernel driver with c++ runtime
 
 - https://github.com/ExpLife/DriverSTL
